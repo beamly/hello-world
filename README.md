@@ -1,5 +1,6 @@
 Hello World
 ==
+[![Build Status](https://travis-ci.org/beamly/hello-world.svg?branch=master)](https://travis-ci.org/beamly/hello-world)
 
 Hello World is a golang package which returns `hello, world`:
 

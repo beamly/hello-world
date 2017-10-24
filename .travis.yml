@@ -8,7 +8,7 @@ before_install:
   - go get .
 
 script:
-  - go test .
+  - go test -covermode=count -coverprofile=count.out -v
 
 build:
   - go build
